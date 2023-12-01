@@ -17,4 +17,4 @@ ft_printf is a comprehensive formatting project at 42, challenging students to i
 3. Compile the library: `make`
 4. Include the `ft_printf.h` header file in your project and use the `ft_printf` function.
 
-Happy formatting with Ft_printf!
+Happy formatting with ft_printf!
